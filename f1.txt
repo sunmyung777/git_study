@@ -1,2 +1,2 @@
-version : 1
-first example
+version : 2
+second example
